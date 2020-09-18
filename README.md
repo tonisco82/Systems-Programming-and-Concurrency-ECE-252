@@ -1,1 +1,3 @@
-# Systems-Programming-and-Currency-ECE-252
+# ECE-252 | Systems Programming and Concurrency
+
+Project 1: Solving the Travelling Salesman problem using fork()
