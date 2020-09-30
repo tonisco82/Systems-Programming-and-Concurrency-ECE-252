@@ -2,7 +2,7 @@
 
 Assignment 1: Solving the Travelling Salesman problem using fork(): parent finds routes, child calculates distances.
 
-Assignment 2:
+Assignment 2: Communicating with remote server using sockets: getaddrinfo(), socket(), connect(), send(), and recv().
 
 Assignment 3:
 
