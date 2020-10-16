@@ -14,7 +14,7 @@ Assignment 6:
 
 Lab 1: Functions to handle PNG files using xxd: find valid file, extract metadata, and concatenate into single image.
 
-Lab 2:
+Lab 2: Using Threads and cURL to retrieve strips of pictures from remote servers, then concatenate into single image.
 
 Lab 3:
 
