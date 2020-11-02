@@ -11,6 +11,6 @@
 **Labs**
 * *Lab 1:* Functions to handle PNG files using xxd: find valid file, extract metadata, and concatenate into single image.
 * *Lab 2:* Using Threads and cURL to retrieve strips of pictures from remote servers, then concatenate into single image.
-* *Lab 3:*
+* *Lab 3:* Using IPC shared memory queue to solve the producer (retrieve images using cURL) consumer (concatenate) problem.
 * *Lab 4:*
 * *Lab 5:*
