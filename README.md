@@ -4,7 +4,7 @@
 * *Assignment 1:* Solving the Travelling Salesman problem using fork(): parent finds routes, child calculates distances.
 * *Assignment 2:* Communicating with remote server using sockets: getaddrinfo(), socket(), connect(), send(), and recv().
 * *Assignment 3:* Solving the N-Queens problem using N threads, each representing the position of the first queen.
-* *Assignment 4:*
+* *Assignment 4:* Using mutexes and semaphores allowing Dobby to post tasks that elves take and complete concurrently.
 * *Assignment 5:*
 * *Assignment 6:*
 
